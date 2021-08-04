@@ -3,7 +3,8 @@ body {
 }
 
 h1{
-  color: darkblue;
+  font-size: 40px;
+  color: grey;
   font-weight: bold;
   text-decoration: underline;
 }
@@ -13,7 +14,8 @@ p {
 }
 
 h2{
-  color: darkblue;
+  font-size: 40px;
+  color: grey;
   font-weight: bold;
   text-decoration: underline;
 }
@@ -23,7 +25,8 @@ p {
 }
 
 h3{
-  color: darkblue;
+  font-size: 40px;
+  color: grey;
   font-weight: bold;
   text-decoration: underline;
 }
