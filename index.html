@@ -17,6 +17,7 @@
 <p>Demander aux candidats de présenter un site est une très bonne idée, j'ai pu mettre en pratique les enseignements du site SoloLearn que je trouvais un peu floues et je commence à y prendre goût!</p>
 <h3>Alors n'hésitez plus</h3>
 Acceptez moi dans votre formation svp.
+
 <?php
     if(array_key_exists('button1', $_POST)) {
         Ok();
@@ -24,10 +25,10 @@ Acceptez moi dans votre formation svp.
     else if(array_key_exists('button2', $_POST)) {
         Non dsl();
     }
-    function button1() {
+    function Ok() {
         echo "cool merci  vous le regretterez pas";
     }
-    function button2() {
+    function Non dsl() {
         echo "non vraiment s'il vous plait c'est ma meilleure opportunité d'avenir";
     }
 ?>
