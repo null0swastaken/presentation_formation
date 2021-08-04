@@ -1,9 +1,9 @@
 body {
-  background-color: grey;
+  background-color: darkgrey;
 }
 
 h1{
-  color: darkblue
+  color: darkblue;
   font-weight: bold;
   text-decoration: underline;
 }
@@ -13,7 +13,7 @@ p {
 }
 
 h2{
-  color: darkblue
+  color: darkblue;
   font-weight: bold;
   text-decoration: underline;
 }
@@ -23,7 +23,7 @@ p {
 }
 
 h3{
-  color: darkblue
+  color: darkblue;
   font-weight: bold;
   text-decoration: underline;
 }
